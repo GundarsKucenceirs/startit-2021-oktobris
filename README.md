@@ -1,1 +1,4 @@
-# startit-2021-oktobris
+# oktobra mācību piemēri
+
+-kā lietot GitHub
+-Kā lietot GitHub destop
